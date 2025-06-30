@@ -1,16 +1,28 @@
-## Hi there 👋
+# 👋 Hi, I'm Sreelakshmi
 
-<!--
-**MadupathiSreelakshmi/MadupathiSreelakshmi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Science Graduate from GITAM University  
+💻 Interested in Cloud Computing · Data Analytics · Software Development  
+🌱 Currently building projects using Python, AWS, and SQL  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## ⚙️ Skills  
+Python · SQL · HTML · AWS · Tableau · MySQL · Excel · SDLC
+
+---
+
+## 🚀 Projects
+
+- **File Rack Management System** – Built using PHP & MySQL during internship to automate file tracking and reduce manual tasks  
+- **Deloitte Forage Simulation** – Solved a business case using Excel and Tableau; created a dashboard and presented insights  
+- **Cloud Containerization Project** – Researched and documented Docker & Kubernetes deployment strategies
+
+---
+
+## 📫 Contact  
+📧 Email: msreelakshmi.2k02@gmail.com  
+🔗 [LinkedIn](https://www.linkedin.com/in/sreelakshmi-m-390425317)
+
+---
+
+_Thanks for visiting my GitHub!_
