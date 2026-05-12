@@ -1,30 +1,38 @@
 # Hi, I'm Sreelakshmi 👋
 
-🎓 MTech CSE Student at GITAM University  
-💡 Passionate about Artificial Intelligence, Machine Learning, Deep Learning, and Cloud Computing  
-🚀 Building AI-powered prediction and classification systems using Python, TensorFlow, and AWS  
+🎓 Currently pursuing MTech in Computer Science and Engineering at GITAM University  
+💡 Passionate about AI/ML, Deep Learning, Data Analytics, and Cloud Computing  
+🚀 Building AI-powered applications, analytics dashboards, and data-driven solutions using Python, TensorFlow, Power BI, and AWS  
+🗣️ Strong communicator with interest in solving real-world problems through technology
 
 ---
 
 ## 💻 Technical Skills
 
-### Programming
+### Languages
 - Python
 - SQL
 
-### Machine Learning & Deep Learning
+### Libraries & Frameworks
 - TensorFlow
 - Keras
 - Scikit-learn
-- CNN
-- Neural Networks
 
 ### Cloud & Tools
 - AWS
 - Google Cloud Platform
 - Power BI
 - Tableau
+- Excel
 - VS Code
+
+### Core Concepts
+- Machine Learning
+- Deep Learning
+- CNN
+- Data Analytics
+- Cloud Computing
+- Data Structures & Algorithms
 
 ---
 
@@ -36,9 +44,13 @@
 - Achieved 92% testing accuracy using deep learning techniques
 
 ### 🩺 Diabetes Prediction using FFNN
-- Built a deep learning-based diabetes prediction web application
-- Achieved 85.55% accuracy with TensorFlow and Keras
-- Compared FFNN performance with traditional ML models
+- Built a deep learning-based diabetes prediction system using TensorFlow and Keras
+- Achieved 85.55% prediction accuracy
+- Compared FFNN performance with traditional machine learning models
+
+### 📊 Sales Data Analytics Dashboard using Power BI
+- Developed an interactive Power BI dashboard to analyze sales trends, profit analysis, regional performance, and category insights
+- Implemented KPI cards, treemaps, slicers, and geographic visualizations for business intelligence reporting
 
 ### ☁️ Container Consolidation in CaaS Cloud
 - Developed a cloud-based simulation model for intelligent resource allocation
@@ -50,14 +62,15 @@
 - Google Cloud Associate Cloud Engineer Preparation
 - Deloitte Data Analytics Job Simulation
 - IBM Python for Data Science and AI Development
-- IIRS-ISRO Geodata Processing using Python and Machine Learning
+- Cloud Computing – LearnQuest
+- IIRS–ISRO Geodata Processing using Python and Machine Learning
 
 ---
 
 ## 📫 Connect With Me
 - 📧 Email: manusree2k04@gmail.com
-- 🔗 LinkedIn: https://www.linkedin.com/in/sreelakshmi-m-390425317
+- 🔗 LinkedIn: www.linkedin.com/in/sreelakshmi-m-390425317
 
 ---
 
-⭐ Always learning and building new AI/ML solutions
+⭐ Passionate about learning, building, and improving AI/ML and analytics solutions
